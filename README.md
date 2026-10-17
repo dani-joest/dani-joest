@@ -2,7 +2,7 @@
 
 ### ℹ️ About Me
 
-Hi! 👋 Let me introduce myself. My name is **Dani Joest**, but I usually go by **Dani Ramdani**. I am a **Software Engineer & Full Stack Developer** passionate about creating new technologies and experimenting with various projects. My expertise includes developing **websites**, **WhatsApp bots**, and **Telegram bots**. I also enjoy **sharing knowledge** and **collaborating** on open-source projects.
+Hi! 👋 Let me introduce myself. My name is **Dani Joest**, but I usually go by **Dani Ramdani**. I am a **Software Engineer & Full-Stack Developer** passionate about creating new technologies and experimenting with various projects. My expertise includes developing **websites**, **WhatsApp bots**, and **Telegram bots**. I also enjoy **sharing knowledge** and **collaborating** on open-source projects.
 
 ## 🛠 Favorite Programming Languages and Tools
 
